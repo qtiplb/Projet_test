@@ -5,7 +5,7 @@
 
 ## Premiers pas
 
-* [Premiers pas](accueil/premiers-pas.md)
+* [Premiers pas](premiers-pas/premiers-pas.md)
 * [Changelog](accueil/changelog.md)
 
 ## Suite
