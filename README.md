@@ -23,7 +23,7 @@ Once you're strong enough, save the world:
 echo 'You got to trust me on this, I saved the world'
 ```
 
-{% api-method method="get" host="" path="" %}
+{% api-method method="post" host="" path="" %}
 {% api-method-summary %}
 Get blabla
 {% endapi-method-summary %}
