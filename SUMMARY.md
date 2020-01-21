@@ -6,9 +6,10 @@
 ## Premiers pas
 
 * [Premiers pas](premiers-pas/premiers-pas.md)
-* [Changelog](accueil/changelog.md)
+* [Changelog](premiers-pas/changelog.md)
 
 ## Suite
 
 * [Avril](suite/avril.md)
+* [Untitled](untitled.md)
 
